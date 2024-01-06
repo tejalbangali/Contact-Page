@@ -65,7 +65,7 @@ function ContactForm() {
         </form>
       </div>
       <div className={`${styles.contact_image}`}>
-        <img src="/public/logo.svg" alt="logo" />
+        <img src="/logo.svg" alt="logo" />
       </div>
     </section>
   );
